@@ -45,7 +45,10 @@ iframe#tela {
 
 section#redes-sociais {
 
-    text-align: right;
+    position: absolute;
+    top: 20%;
+    right: 5px; 
+    text-align: right
     
     
 }
